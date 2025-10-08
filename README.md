@@ -8,7 +8,7 @@
 
 ### Ko-fi
 
-Support me on Ko-fi : https://ko-fi.com/pencilnav
+https://ko-fi.com/pencilnav
 
 ### USDT (TRC20): 
 ```
